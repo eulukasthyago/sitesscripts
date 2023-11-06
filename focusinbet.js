@@ -1,3 +1,3 @@
 {
-    alert('Teste')
+    console.log('Script rodando');
 }

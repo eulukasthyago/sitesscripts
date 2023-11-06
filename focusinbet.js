@@ -1,3 +1,3 @@
 {
-    console.log('Script rodando');
+    console.log('Focus in bet');
 }

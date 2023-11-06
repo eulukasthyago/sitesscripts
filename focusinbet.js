@@ -1,3 +1,3 @@
 {
-    console.log('Focus in bet');
+    console.log('Focus in bet - Loaded');
 }
